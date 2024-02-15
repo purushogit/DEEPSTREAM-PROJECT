@@ -7,7 +7,7 @@ Person Detector using DeepStream on railway tracks  to avoid accidents during tr
 - This app is built on Nvidia DeepStream SDK, which provides a complete streaming analytics toolkit for object detection.
 - Ability to integrate it with the CCTV present on-site and connect to cloud to create a end to end IOT/AI-ML application.
 
-![Jetson](https://i.imgur.com/C0BDGZ5.png)
+
 
 
 ![sample-photo](trainsafety.png)
