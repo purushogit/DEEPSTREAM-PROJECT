@@ -52,8 +52,8 @@ Download the deb file under - DeepStream 5.1 for Jetson from [here](https://deve
     ```
 2. Clone the repo
     ```sh
-    git clone [https://github.com/vardhan249/Pothole_detector.git](https://github.com/purushogit/DEEPSTREAM-PROJECT.git)
-    ```
+    git clone [https://github.com/purushogit/DEEPSTREAM-PROJECT.git]
+      ```
 3. Download the lfs files
     ```
     git lfs pull
